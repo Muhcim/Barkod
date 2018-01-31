@@ -1,0 +1,24 @@
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\bin\Debug\CSHARP-Barcode.exe
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\bin\Debug\CSHARP-Barcode.pdb
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\obj\x86\Debug\CSHARP_Barcode.Form1.resources
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\obj\x86\Debug\CSHARP_Barcode.Properties.Resources.resources
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.csproj.GenerateResource.Cache
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.exe
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.pdb
+D:\GitProject\CSHARP-Barcode\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.csprojResolveAssemblyReference.cache
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.pdb
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\bin\Debug\CSHARP-Barcode.exe
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\bin\Debug\CSHARP-Barcode.pdb
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.csprojResolveAssemblyReference.cache
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\obj\x86\Debug\CSHARP_Barcode.Form1.resources
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\obj\x86\Debug\CSHARP_Barcode.Properties.Resources.resources
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.csproj.GenerateResource.Cache
+C:\Users\Everest\Desktop\CSHARP-Barcode-master\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.exe
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.exe
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.pdb
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\bin\Debug\CSHARP-Barcode.exe
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\bin\Debug\CSHARP-Barcode.pdb
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.csprojResolveAssemblyReference.cache
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\obj\x86\Debug\CSHARP_Barcode.Form1.resources
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\obj\x86\Debug\CSHARP_Barcode.Properties.Resources.resources
+E:\C #DERSLER Açıklamalı\Barkod\CSHARP-Barcode\obj\x86\Debug\CSHARP-Barcode.csproj.GenerateResource.Cache
